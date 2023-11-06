@@ -5,6 +5,205 @@
 const number = process.argv[2]
 const randomnum = Math.floor(Math.random() * 1000000)
 
+
+list = [{
+    // start web api section
+    "url": "https://tabriz-soghat.com/customer-login",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://esanj.ir/login",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://virgool.io/register",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://ghasedak24.com/user/login",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://sanjagh.pro/tehran/login?refererPage=%2Fapp%2Fjoin",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://civilica.com/register/",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://emalls.ir/registernew.aspx?type=mobile&step=1",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://www.buskool.com/register",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://login.myids.ir/digiform/login",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://sarmayex.com/authentication/init?reagent_code=292632575",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://kavirmotor.com/login-register/",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://emrooz.ir/auth",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://ponisha.ir/register",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://tetherland.com/login",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://account.3gaam.com/Login?ReturnUrl=https%3A%2F%2Fapp.3gaam.com%2Fdashboard",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://satraa.com/signup",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://panel.azkivam.com/auth/login?redirect=%2F",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://shop.mci.ir/login",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://bitpin.ir/signup/",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://lendo.ir/login",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://panel.idpay.ir/auth-user",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
+list = [{
+    // start web api section
+    "url": "https://seller.digikala.com/pwa/account/sign-in",
+    "data": { cellphone: `+98${number}` },
+    "name": "snapp",
+    "type": "WEB",
+    "method": "POST"
+},
+{
 list = [{
     // start web api section
     "url": "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp",
